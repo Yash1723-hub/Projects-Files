@@ -5,7 +5,7 @@ void OddDisplay(int Arr[], int iSize)  // (100,4)
 {
     int iCnt = 0;
 
-    printf("\Odd Elements of the array are : \n");
+    printf("Odd Elements of the array are : \n");
     //      1           2           3
     for(iCnt = 0; iCnt < iSize; iCnt++)
     {
